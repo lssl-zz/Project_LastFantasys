@@ -4,7 +4,7 @@
 - 기본 전투 화면입니다.
 
 ## [Code] 전투
-- [전투 코드 - StageProcess](https://github.com/lssl-zz/Project_LastFantasys/blob/main/CY_StageProcess_Git.cs)
+- [전투 코드 - StageProcess](https://github.com/lssl-zz/Project_LastFantasys/blob/main/StageProcess_Git.cs)
 - 전투의 흐름을 관리하는 StageProcess의 샘플 코드입니다.
 
 ## [Code] 캐릭터
